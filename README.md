@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Juneun Mun
+- 👋 Hi, I’m Jueun Mun
 - 👀 I’m interested in Computer Vision
 - 🌱 I’m currently learning Computer Science and Engineering at Kyunghee University
 - 💞️ I’m studying in PerCV laboratory at Kyunghee University
