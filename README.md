@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jueun Mun
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning Computer Science and Engineering at Kyunghee University
-- 💞️ I’m studying in PerCV laboratory at Kyunghee University
+- 👀 I’m interested in Data-efficient learning
+- 🌱 I’m a M.S. student in Artificial Intelligence at Postech.
 - 📫 Contact: cindy4741@khu.ac.kr, mooonjooeun4741@gmail.com
 
 <!---
